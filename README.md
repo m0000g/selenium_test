@@ -12,7 +12,7 @@ Selenium is a popular open-source tool used for automating web browsers. It allo
 
 - Selenium WebDriver: robust, browser-based regression automation suites and tests, scale and distribute scripts across many environments.
 - Selenium ID: Browser add-on simple to record and play (I have used this one before)
-- Selenium Grid: Scale by distributing and running test on several machines and environments from a centra point. Test agains a vast combination of browsers/OS.
+- Selenium Grid: Scale by distributing and running tests on several machines and environments from a central point. Test againts a vast combination of browsers/OS.
 
 # WebDriver API
 
