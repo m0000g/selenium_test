@@ -86,7 +86,7 @@ Selected language: JavaScript
    - Open a command prompt or PowerShell window, navigate to the directory containing your test script, and run it with Node.js:
 
      ```jsx
-     node test_selenium.js
+     node selenium_test.js
      ```
 
    - This should open the browser, navigate to Google, print the page title, and then close the browser.
