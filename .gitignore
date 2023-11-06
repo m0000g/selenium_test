@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDE - Visual Studio Code
+.vscode/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment Variables
+.env
+.env.test
+.env.local
+.env.*.local
+
+# Debug log from npm
+npm-debug.log*
+
